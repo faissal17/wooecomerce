@@ -1,0 +1,4 @@
+2023-03-27T16:20:00+00:00 CRITICAL Out of memory (allocated 65011712) (tried to allocate 20480 bytes) in C:\xampp\htdocs\wordpress\wp-includes\rest-api\class-wp-rest-server.php on line 902
+
+2023-03-27T16:20:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 484
+
