@@ -1,0 +1,267 @@
+2023-03-31T10:43:21+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:44:57+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:45:56+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:46:07+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:46:43+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:56:33+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:58:12+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:58:53+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T10:59:09+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T11:00:05+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(617): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-Payment.php on line 20
+
+2023-03-31T11:59:45+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 20
+
+2023-03-31T12:01:08+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:22
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 22
+
+2023-03-31T12:01:09+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:22
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 22
+
+2023-03-31T12:01:16+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:19
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 19
+
+2023-03-31T12:03:30+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 20
+
+2023-03-31T12:03:31+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 20
+
+2023-03-31T12:04:09+00:00 CRITICAL Uncaught Error: Call to undefined function process_payment_data() in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php:20
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(308): process_payment('')
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#4 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\My-Payment\My-payment.php on line 20
+
+2023-03-31T12:05:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_payment" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 308
+
+2023-03-31T12:05:16+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_payment" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 308
+
+2023-03-31T12:07:47+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_payment" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\wp-admin\plugins.php(10): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 308
+
+2023-03-31T12:07:48+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "process_payment" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-settings.php(623): do_action('init')
+#3 C:\xampp\htdocs\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 308
+
+2023-03-31T15:10:52+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "add_plugin_function" not found or invalid function name in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php:308
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\xampp\htdocs\wordpress\wp-admin\admin.php(259): do_action('toplevel_page_s...')
+#3 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php on line 308
+

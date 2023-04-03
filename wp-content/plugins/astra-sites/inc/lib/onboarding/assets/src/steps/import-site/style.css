@@ -1,0 +1,112 @@
+.website-import-subtitle {
+  margin-bottom: 35px;
+  color: #3B3F5C;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 22px;
+}
+
+.website-import-subtitle svg {
+  vertical-align: bottom;
+  margin-left: 10px;
+}
+
+.step-import-site.st-step h1 {
+  text-align: left;
+}
+.step-import-site.st-step button {
+  width: 100%;
+  margin-top: 25px;
+}
+
+.ist-import-progress-info-text {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  grid-gap: 10px;
+}
+
+.ist-import-progress, .ist-import-error {
+  margin-top: 25px;
+}
+.ist-import-progress .ist-import-progress-bar-wrap, .ist-import-error .ist-import-progress-bar-wrap {
+  position: relative;
+}
+.ist-import-progress .import-progress-gap span, .ist-import-error .import-progress-gap span {
+  background: var(--st-background-primary);
+  height: 6px;
+  position: absolute;
+  width: 10px;
+  top: -1px;
+}
+.ist-import-progress .import-progress-gap span:nth-child(1), .ist-import-error .import-progress-gap span:nth-child(1) {
+  left: calc(25% - 10px);
+}
+.ist-import-progress .import-progress-gap span:nth-child(2), .ist-import-error .import-progress-gap span:nth-child(2) {
+  left: calc(50% - 10px);
+}
+.ist-import-progress .import-progress-gap span:nth-child(3), .ist-import-error .import-progress-gap span:nth-child(3) {
+  left: calc(75% - 10px);
+}
+.ist-import-progress .ist-import-progress-bar-bg, .ist-import-error .ist-import-progress-bar-bg {
+  height: 4px;
+  background: var(--st-color-light-gray);
+  width: 100%;
+  position: relative;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: var(--st-color-accent);
+  transition: all 1s;
+  width: 0%;
+  height: 100%;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar.import-1, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar.import-1 {
+  width: 25%;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar.import-2, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar.import-2 {
+  width: 50%;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar.import-3, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar.import-3 {
+  width: 75%;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar.import-4, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar.import-4 {
+  width: 100%;
+}
+.ist-import-progress .ist-import-progress-bar-bg .ist-import-progress-bar.import-done, .ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar.import-done {
+  background: #38C172;
+}
+.ist-import-progress .ist-import-progress-info, .ist-import-error .ist-import-progress-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.ist-import-error .ist-import-error-box {
+  overflow-y: scroll;
+}
+.ist-import-error .ist-import-progress-bar-bg {
+  width: 100%;
+  margin-bottom: 15px;
+}
+.ist-import-error .ist-import-progress-bar-bg .ist-import-progress-bar {
+  background: var(--st-border-color);
+}
+
+.ist-import-done-inner,
+.import-done-counter {
+  display: none;
+}
+
+.import-done .import-status-string,
+.import-done .ist-import-text-inner {
+  display: none;
+}
+.import-done .import-done-counter,
+.import-done .ist-import-done-inner {
+  display: block;
+}/*# sourceMappingURL=style.css.map */

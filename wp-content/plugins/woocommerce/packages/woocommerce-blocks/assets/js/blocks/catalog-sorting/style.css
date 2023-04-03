@@ -1,0 +1,10 @@
+.woocommerce.wc-block-catalog-sorting form {
+  float: none;
+}
+.woocommerce.wc-block-catalog-sorting select.orderby {
+  font-size: inherit;
+  color: inherit;
+}
+.woocommerce.wc-block-catalog-sorting .woocommerce-ordering {
+  margin: auto;
+}/*# sourceMappingURL=style.css.map */

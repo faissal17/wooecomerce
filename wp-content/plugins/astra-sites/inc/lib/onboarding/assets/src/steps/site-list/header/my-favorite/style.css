@@ -1,0 +1,15 @@
+.st-my-favorite {
+  cursor: pointer;
+}
+.st-my-favorite svg {
+  width: 16px;
+  height: 16px;
+  fill: var(--st-color-placeholder);
+}
+.st-my-favorite.active svg,
+.st-my-favorite :hover svg {
+  fill: var(--st-color-favorite);
+}
+.st-my-favorite .stc-tooltip-content {
+  right: 0;
+}/*# sourceMappingURL=style.css.map */
